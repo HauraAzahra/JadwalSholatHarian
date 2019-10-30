@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_linear">20dp</dimen>
+    <dimen name="wd_image">50dp</dimen>
+    <dimen name="margin_tvsubuh">12dp</dimen>
+    <dimen name="bottom">10dp</dimen>
+</resources>

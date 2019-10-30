@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jadwal Sholat Harian</string>
+    <string name="subuh">Subuh</string>
+    <string name="time">Time</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="asar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+</resources>
